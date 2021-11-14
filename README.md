@@ -2,19 +2,20 @@
 ### A quick intro to Python
 
 > Basic
-***main.py* (main script, print() built-in function)**
 
-***variable.py* (Variable declaration and manipulation)**
+***:point_right: main.py*** (main script, print() built-in function)
+ 
+***variable.py*** (Variable declaration and manipulation)
 
-***datatype.py* ()**
+***datatype.py*** (Verifying variable type)
 
-***dynamically-typed.py* ()**
+***dynamically-typed.py*** (No point being explicit with declared Python variables)
 
-***comment.py* (Comment styles in Python - single and multiline)**
+***comment.py*** (Comment styles in Python - single and multiline)
 
-***string.py* (String declaration, formatting and manipulation)**
+***string.py*** (String declaration, formatting and manipulation)
 
-***.reserved-keyword.py* (Import and display reserved keywords)**
+***.reserved-keyword.py*** (Import and display reserved keywords)
 
 > Operators
 ---
