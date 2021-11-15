@@ -19,4 +19,4 @@ ___
 
 > Operators
 ---
-***arithmetic.py* (Using operators (e.g., +, -, /) to manipulate the value of operands)**
+***arithmetic.py* (Using operators (e.g., +, -, /, %) to manipulate the value of operands)**
