@@ -27,4 +27,11 @@ ___
 
 > Control Flow
 ---
-***if.py* (Using control flow (e.g., if, else, ) to perform decisions based on certain conditions)**
+***if.py* (Using control flow (e.g., if, elif, else) to perform decisions based on certain conditions)**
+
+> Others are
+___
+***
+Data Structures, Loops, Functions, Classes, Date Formatting, Reading Files, 
+Fetching Data from API, Modules.
+***
