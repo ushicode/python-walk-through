@@ -19,4 +19,8 @@ ___
 
 > Operators
 ---
-***arithmetic.py* (Using operators (e.g., +, -, /, %) to manipulate the value of operands)**
+***arithmetic.py* (Using operators (e.g., +, `*` -, /, %) to manipulate the value of operands)**
+
+***logical.py* (Using operators (e.g., <, >, >=, <=  !=, ==) to manipulate the value of operands)**
+
+***assignment.py* (Using operators (e.g., =, /=, `*=`, `**=`, `-=`) to assign values to variables)**
