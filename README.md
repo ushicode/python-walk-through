@@ -21,10 +21,10 @@ ___
 ---
 ***arithmetic.py* (Using operators (e.g., +, `*` -, /, %) to manipulate the value of operands)**
 
-***logical.py* (Using operators (e.g., <, >, >=, <=  !=, ==) to manipulate the value of operands)**
+***logical.py* (Using comparison operators (e.g., <, >, >=, <=  !=, ==) to manipulate the value of operands)**
 
-***assignment.py* (Using operators (e.g., =, /=, `*=`, `**=`, `-=`) to assign values to variables)**
+***assignment.py* (Using comparison operators (e.g., =, /=, `*=`, `**=`, `-=`) to assign values to variables)**
 
 > Control Flow
 ---
-***if.py* (Using control flow (e.g., ) to perform decisions based on certain conditions)**
+***if.py* (Using control flow (e.g., if, else, ) to perform decisions based on certain conditions)**
